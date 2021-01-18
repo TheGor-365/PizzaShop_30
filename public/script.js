@@ -1,3 +1,6 @@
+let x = 1;
+
 function test() {
-  alert('Hello everybody');
+  alert(x);
+  x += 1;
 }
